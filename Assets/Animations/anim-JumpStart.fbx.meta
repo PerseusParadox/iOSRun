@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 975c7da67e265a149af98a83dede3736
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chest
+    100004: goat
+    100006: head
+    100008: headCenter
+    100010: headTip
+    100012: leftFoot
+    100014: leftHip
+    100016: leftHipBase
+    100018: leftKnee
+    100020: leftToe
+    100022: leftWingBase
+    100024: leftWingMiddle
+    100026: leftWingTip
+    100028: neck
+    100030: peak
+    100032: rightFoot
+    100034: rightHip
+    100036: rightHipBase
+    100038: rightKnee
+    100040: rightToe
+    100042: rightWingBase
+    100044: rightWingMiddle
+    100046: rightWingTip
+    100048: root
+    100050: spine1
+    100052: spine2
+    100054: tailBase
+    100056: tailMiddle
+    100058: tailTip
+    100060: waist
+    400000: //RootNode
+    400002: chest
+    400004: goat
+    400006: head
+    400008: headCenter
+    400010: headTip
+    400012: leftFoot
+    400014: leftHip
+    400016: leftHipBase
+    400018: leftKnee
+    400020: leftToe
+    400022: leftWingBase
+    400024: leftWingMiddle
+    400026: leftWingTip
+    400028: neck
+    400030: peak
+    400032: rightFoot
+    400034: rightHip
+    400036: rightHipBase
+    400038: rightKnee
+    400040: rightToe
+    400042: rightWingBase
+    400044: rightWingMiddle
+    400046: rightWingTip
+    400048: root
+    400050: spine1
+    400052: spine2
+    400054: tailBase
+    400056: tailMiddle
+    400058: tailTip
+    400060: waist
+    2100000: white
+    2100002: head_red
+    2100004: goat_mat
+    2100006: blinn4
+    2100008: blinn5
+    4300000: goat
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: goat
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 7
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
