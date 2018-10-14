@@ -2128,7 +2128,7 @@ Rigidbody:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1965975558}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 10
   m_Drag: 0.9
   m_AngularDrag: 0
   m_UseGravity: 1
@@ -2226,12 +2226,12 @@ Prefab:
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 417.5
+      value: 94
       objectReference: {fileID: 0}
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 335.8
+      value: 79
       objectReference: {fileID: 0}
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
@@ -2276,17 +2276,17 @@ Prefab:
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
       propertyPath: m_LocalScale.x
-      value: 2.6757443
+      value: 0.64759237
       objectReference: {fileID: 0}
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
       propertyPath: m_LocalScale.y
-      value: 2.6757443
+      value: 0.64759237
       objectReference: {fileID: 0}
     - target: {fileID: 224634173311786724, guid: 1acce97b652a7b24eba75b7293127b85,
         type: 2}
       propertyPath: m_LocalScale.z
-      value: 2.6757443
+      value: 0.64759237
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1acce97b652a7b24eba75b7293127b85, type: 2}
