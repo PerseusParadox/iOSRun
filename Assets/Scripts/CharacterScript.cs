@@ -52,6 +52,8 @@ public class CharacterScript : MonoBehaviour {
         }
 
 
+        if ( transform.position.y < -10 )
+            transform.position = new Vector3 (0f , 0.49f , 0f);
 
 
 
@@ -84,7 +86,7 @@ public class CharacterScript : MonoBehaviour {
         //Camera Mechanics
         Vector3 targetPosition = transform.position + cameraOffset;
         followerCamera.transform.position = Vector3.Lerp (followerCamera.transform.position , targetPosition , smoothCameraMovement);
-
+        var spawnpPosition = new Vector3 (transform.position.x + Random.Range (20 , 40) , Random.Range (-25 , 25) , 0);
     }
 
 

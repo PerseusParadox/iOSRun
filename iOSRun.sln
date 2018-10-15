@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{93D520CD-33D0-4F96-AA2D-2DF0BA063433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSRun", "Assembly-CSharp.csproj", "{93D520CD-33D0-4F96-AA2D-2DF0BA063433}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
